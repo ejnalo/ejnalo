@@ -4,7 +4,7 @@
 Etudiant en BUT MMI et musicien (piano & batterie) passionné de programmation et de photographie
 
 ## Langages
-<a href="https://gh-stats-ejnalo.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent"><img src="https://gh-stats-ejnalo.vercel.app/api/top-langs/?layout=donut&username=ejnalo&theme=transparent" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=ejnalo&theme=transparent"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=ejnalo&theme=transparent" /></a>
 
 ## Tech stack
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,nuxt&perline=8) <br>
