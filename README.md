@@ -21,5 +21,5 @@ En cours
 ### [World War III](https://github.com/1scr/MoR.bot)
 Adaptation vers Discord du RISK Event sur le serveur déjà existant dont j'ai parlé au-dessus.
 
-### [ArrowBit](https://github.com/arrowbitlang)
+### [ArrowBit](https://github.com/ejnalo/arrowbit)
 C'est un projet qui est passé d'un simple shell décoratif sur un projet Scratch à un vrai langage de programmation exécutable sur un ordi. Le projet est en pause sur Github mais continue à être activement développé localement.
