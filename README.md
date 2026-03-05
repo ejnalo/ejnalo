@@ -7,13 +7,17 @@ Etudiant en BUT MMI et musicien (piano & batterie) passionné de programmation e
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=ejnalo&theme=transparent"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=ejnalo&theme=transparent" /></a>
 
 ## Tech stack
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,nuxt&perline=8) <br>
-![Hébergeurs](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
-![Éditeurs](https://skillicons.dev/icons?i=replit,github,git,vscode,figma&perline=8) <br><br>
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,tailwind,electron,express,flask,vue,nuxt&perline=8) <br>
+![Hébergeurs](https://skillicons.dev/icons?i=vercel,cloudflare,supabase,docker,postgres,sqlite&perline=8) <br>
+![Éditeurs](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8) <br><br>
 ![Autres](https://skillicons.dev/icons?i=discord,bots,npm&perline=8)
 
-## En apprentissage / Familiarisation
-![Learning](https://skillicons.dev/icons?i=svelte,react,powershell,bash,c&perline=8)
+### En apprentissage / Familiarisation
+![Learning](https://skillicons.dev/icons?i=react,php,ai,pr&perline=8)
+
+## Logiciels d'édition
+![Softwares](https://skillicons.dev/icons?i=figma&perline=8)
+
 
 En cours
 -----
